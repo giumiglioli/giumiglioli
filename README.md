@@ -6,7 +6,7 @@ Here are some ways to contact me:
 
 About Me:
 - 🔭 I’m currently working on test case development and test case execution on Halliburton company. I am helping to build a Digital Twin on Santos Bay, Mero Field. 
-- 🌱 I’m currently learning test automation, javascript.
+- 🌱 I’m currently learning test automation, javascript, test strategies at PGATS from Julio de Lima training
 
 
 <!--
