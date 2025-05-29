@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Giuliana Miglioli!
-I am a Software Test Engineer, and I am a lifelonger learner.
+I am a Software Test Engineer, and a lifelonger learner.
 
 Here are some ways to contact me:
 - LinkedIn: https://www.linkedin.com/in/giuliana-miglioli/
