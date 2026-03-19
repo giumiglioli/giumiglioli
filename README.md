@@ -9,11 +9,6 @@ About Me:
 - 🌱 I’m currently learning test automation, javascript, test strategies from Julio de Lima metorship program
 - ✨ Completed the PGATS course (specialization in automated tests) from Julio de Lima's training 
 
-Technologies I am familiar with:
-1 . Test tools: RQM, Azure DevOps
-2. Database: 
-![Oracle Database](https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_logo.svg)
-
 <!--
 **giumiglioli/giumiglioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
