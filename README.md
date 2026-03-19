@@ -1,13 +1,18 @@
 ## Hi there 👋 I am Giuliana Miglioli!
 I am a Software Test Engineer, and a lifelonger learner.
 
-Here are some ways to contact me:
+📫 How to reach me/contact me:
 - LinkedIn: https://www.linkedin.com/in/giuliana-miglioli/
 
 About Me:
 - 🔭 I’m currently working on test case development and test case execution on Halliburton company. I am helping to build a Digital Twin on Santos Bay, Mero Field. 
-- 🌱 I’m currently learning test automation, javascript, test strategies at PGATS from Julio de Lima training
+- 🌱 I’m currently learning test automation, javascript, test strategies from Julio de Lima metorship program
+- ✨ Completed the PGATS course (specialization in automated tests) from Julio de Lima's training 
 
+Technologies I am familiar with:
+1 . Test tools: RQM, Azure DevOps
+2. Database: 
+![Oracle Database](https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_logo.svg)
 
 <!--
 **giumiglioli/giumiglioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
